@@ -36,6 +36,8 @@ the top-level folder. Don't just upload all the php files and put them in `/wp-c
 1. To disable maintenance mode, just set the "Mesajul" field to 0 (zero)
 1. That's it!
 
+Additionally you can always go and edit the css file located in `plugins/maintenance-mode-notify/css/`.
+
 == Frequently Asked Questions ==
 = Will it work in IE browsers? =
 Absolutely YES
@@ -53,4 +55,5 @@ This is the very first version of the plugin. More to follow!.
 
 
 == Screenshots ==
-1. No screenshots at this moment
+1. This is a preview of how the maintenance note looks in the page
+2. Just change the message or set to 0(zero) to disable
