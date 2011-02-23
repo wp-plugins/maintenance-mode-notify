@@ -14,7 +14,7 @@ Notify your visitors when you're updating your blog by showing a nice message in
 
 
 
-[Support](http://pixelalb.ro/) |
+[Support](http://pixelalb.ro/)
 
 Some features:
 
