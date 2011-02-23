@@ -45,7 +45,7 @@ Absolutely YES
 
 == Changelog ==
 = 1.0 =
-* Yellow bar at the top of the page
+* Yellow bar with a message at the top of the page
 
 
 
