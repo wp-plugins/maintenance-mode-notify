@@ -4,6 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: maintenance, notify, alert, popup
 Requires at least: 2.8
 Tested up to: 3.0.4
+Stable tag: trunk
 
 Notify your visitors when you're updating your blog by showing a nice message in the page.
 
@@ -44,4 +45,21 @@ the top-level folder. Don't just upload all the php files and put them in `/wp-c
 5. To disable maintenance mode, just set the "Mesajul" field to 0 (zero)
 6. That's it!
 
+== Frequently Asked Questions ==
+= Will it work in IE browsers? =
+Absolutely YES
 
+
+== Changelog ==
+= 1.0 =
+* Yellow bar at the top of the page
+
+
+
+== Upgrade Notice ==
+= 1.0 =
+This is the very first version of the plugin. More to follow!.
+
+
+== Screenshots ==
+1. No screenshots at this moment
