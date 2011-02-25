@@ -3,7 +3,7 @@
 Plugin Name: Maintenance Mode Notifyer
 Plugin URI: http://pixelalb.ro
 Description: Shows a nice alert message to your users when your blog is in Maintenance Mode 
-Version: 2.0
+Version: 1.0
 Author: PixelAlb
 Author URI: http://pixelalb.ro
 */
