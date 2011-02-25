@@ -35,7 +35,7 @@ manually.
 the top-level folder. Don't just upload all the php files and put them in `/wp-content/plugins/`.
 1. Activate the plugin through the 'Plugins' menu in WordPress
 1. Go to Maintenance page and update the message you want to display when in maintenance mode
-1. To disable maintenance mode, just set the "Mesajul" field to 0 (zero)
+1. To disable maintenance mode, just set the "Message" field to 0 (zero)
 1. That's it!
 
 Additionally you can always go and edit the css file located in `plugins/maintenance-mode-notify/css/`.
