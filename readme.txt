@@ -70,7 +70,7 @@ This is the very first version of the plugin. More to follow!.
 
 
 == Screenshots ==
-1. This is a preview of how the maintenance note looks in the page
+1. This is how the maintenance note looks in the page
 2. After activating the plugin, you'll see the Maintenance Mode Notify settings page link in the admin menu
 3. Just change the message or set to 0(zero) to disable. Pick a look, make it blink!
 4. Fullscreen mode. Your visitors still can see the site behind the transparent overlay but they can't navigate.  
