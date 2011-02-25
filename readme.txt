@@ -50,6 +50,7 @@ Absolutely YES
 * Ability to position the notifying bar in the page (top, bottom)
 * Fullscreen mode
 * Blink ability
+
 = 1.0 =
 * Yellow bar with a message at the top of the page
 
@@ -58,6 +59,7 @@ Absolutely YES
 == Upgrade Notice ==
 = 2.0 =
 Change the positioning, make it blink!
+
 = 1.0 =
 This is the very first version of the plugin. More to follow!.
 
