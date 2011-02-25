@@ -34,6 +34,11 @@ manually.
 1. You can either use the automatic plugin installer or your FTP program to upload it to your wp-content/plugins directory
 the top-level folder. Don't just upload all the php files and put them in `/wp-content/plugins/`.
 1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Open your footer.php file and add this code just before the `</body>` tag:
+		`<?php
+		if (function_exists("activate_maintenance_mode")) {
+			activate_maintenance_mode();}
+		?>`
 1. Go to Maintenance page and update the message you want to display when in maintenance mode
 1. To disable maintenance mode, just set the "Message" field to 0 (zero)
 1. That's it!
