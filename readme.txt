@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: maintenance, notify, alert, popup
 Requires at least: 2.8
 Tested up to: 3.0.4
-Stable tag: trunk
+Stable tag: 2.0
 
 Notify your visitors when you're updating your blog by showing a nice message in the page.
 
@@ -44,6 +44,12 @@ Absolutely YES
 
 
 == Changelog ==
+= 2.0 =
+* Ability to position the notifying bar in the page (top, bottom)
+* Fullscreen mode
+* Blink ability
+
+
 = 1.0 =
 * Yellow bar with a message at the top of the page
 
