@@ -14,12 +14,14 @@ Notify your visitors when you're updating your blog by showing a nice message in
 
 
 
-[Support](http://pixelalb.ro/)
+[Questions? Contact me!](http://pixelalb.ro/)
 
 Some features:
 
 * Displays a nice message at the top of your blog pages
-* Looks good on different browsers
+* Able to blink
+* Fullscreen mode
+* In page positioning
 
 
 Follow me on Twitter to keep up with the latest updates [Stegaru Victor](http://twitter.com/pixelalb/)
@@ -56,10 +58,13 @@ Absolutely YES
 
 
 == Upgrade Notice ==
+= 2.0 =
+Change the positioning, make it blink!
 = 1.0 =
 This is the very first version of the plugin. More to follow!.
 
 
 == Screenshots ==
 1. This is a preview of how the maintenance note looks in the page
-2. Just change the message or set to 0(zero) to disable
+2. After activating the plugin, you'll see the Maintenance Mode Notify settings page link in the admin menu
+3. Just change the message or set to 0(zero) to disable. Pick a look, make it blink! 
