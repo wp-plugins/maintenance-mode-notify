@@ -50,8 +50,6 @@ Absolutely YES
 * Ability to position the notifying bar in the page (top, bottom)
 * Fullscreen mode
 * Blink ability
-
-
 = 1.0 =
 * Yellow bar with a message at the top of the page
 
