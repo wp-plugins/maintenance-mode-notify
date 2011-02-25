@@ -3,7 +3,7 @@ Contributors: PixelAlb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HFJR5YCMDJAVL
 Tags: maintenance, notify, alert, popup
 Requires at least: 2.8
-Tested up to: 3.0.4
+Tested up to: 3.1
 Stable tag: 2.0
 
 Notify your visitors when you're updating your blog by showing a nice message in the page.
