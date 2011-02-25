@@ -1,0 +1,4 @@
+.topYellowBar {position:absolute; width:100%; text-align:center; padding: 5px 0; float: left; background:#ffffaa; opacity: 0.7; color:green; font-size:11px; top:0; left:0; z-index:1000}
+.bottomYellowBar {position:absolute; width:100%; text-align:center; padding: 5px 0; float: left; background:#ffffaa; opacity: 0.7; color:green; font-size:11px; bottom:0; left:0; z-index:1000}
+.fullScreenYellowBar {position:absolute; width:100%; text-align:center; padding: 155px 0; float: left; background:#ffffaa; opacity: 0.7; color:green; font-size:22px; top:0; left:0; z-index:1000}
+.fullScreenYellowBar span {background:yellow;}
