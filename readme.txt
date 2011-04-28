@@ -28,8 +28,7 @@ Follow me on Twitter to keep up with the latest updates [Stegaru Victor](http://
 
 == Installation ==
 
-You can use the built in installer and upgrader, or you can install the plugin
-manually.
+You can use the built in installer and upgrader, or you can install the plugin manually.
 
 1. You can either use the automatic plugin installer or your FTP program to upload it to your wp-content/plugins directory
 the top-level folder. Don't just upload all the php files and put them in `/wp-content/plugins/`.
@@ -60,7 +59,7 @@ Absolutely YES
 * Blink ability
 
 = 1.0 =
-* Yellow bar with a message at the top of the page
+* Yellow bar with a message at the top of the page.
 
 
 
