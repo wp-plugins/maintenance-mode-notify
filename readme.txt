@@ -66,7 +66,7 @@ Absolutely YES
 
 == Upgrade Notice ==
 = 2.0.1 =
-* register_settings function conflicts with other plugins solved
+* solved the register_settings function conflicts with other plugins
 
 = 2.0 =
 Change the positioning, make it blink!
