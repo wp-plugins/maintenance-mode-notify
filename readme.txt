@@ -3,8 +3,8 @@ Contributors: PixelAlb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HFJR5YCMDJAVL
 Tags: maintenance, notify, alert, popup
 Requires at least: 2.8
-Tested up to: 3.1
-Stable tag: 2.0
+Tested up to: 3.1.1
+Stable tag: 2.0.1
 
 Notify your visitors when you're updating your blog by showing a nice message in the page.
 
@@ -51,6 +51,9 @@ Absolutely YES
 
 
 == Changelog ==
+= 2.0.1 =
+* register_settings function conflicts with other plugins solved
+
 = 2.0 =
 * Ability to position the notifying bar in the page (top, bottom)
 * Fullscreen mode
