@@ -3,8 +3,8 @@ Contributors: PixelAlb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HFJR5YCMDJAVL
 Tags: maintenance, notify, alert, popup
 Requires at least: 2.8
-Tested up to: 3.1
-Stable tag: 2.0
+Tested up to: 3.1.1
+Stable tag: 2.0.1
 
 Notify your visitors when you're updating your blog by showing a nice message in the page.
 
@@ -51,6 +51,9 @@ Absolutely YES
 
 
 == Changelog ==
+= 2.0.1 =
+* register_settings function conflicts with other plugins solved
+
 = 2.0 =
 * Ability to position the notifying bar in the page (top, bottom)
 * Fullscreen mode
@@ -72,5 +75,4 @@ This is the very first version of the plugin. More to follow!.
 == Screenshots ==
 1. This is how the maintenance note looks in the page
 2. After activating the plugin, you'll see the Maintenance Mode Notify settings page link in the admin menu
-3. Just change the message or set to 0(zero) to disable. Pick a look, make it blink!
-4. Fullscreen mode. Your visitors still can see the site behind the transparent overlay but they can't navigate.  
+3. Just change the message or set to 0(zero) to disable. Pick a look, make it blink! 
