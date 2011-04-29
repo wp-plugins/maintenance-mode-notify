@@ -3,8 +3,8 @@ Contributors: PixelAlb
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HFJR5YCMDJAVL
 Tags: maintenance, notify, alert, popup
 Requires at least: 2.8
-Tested up to: 3.1
-Stable tag: 2.0
+Tested up to: 3.1.1
+Stable tag: 2.0.1
 
 Notify your visitors when you're updating your blog by showing a nice message in the page.
 
@@ -21,15 +21,14 @@ Some features:
 * Displays a nice message at the top of your blog pages
 * Able to blink
 * Fullscreen mode
-* In page positioning
+* In page positioning.
 
 
 Follow me on Twitter to keep up with the latest updates [Stegaru Victor](http://twitter.com/pixelalb/)
 
 == Installation ==
 
-You can use the built in installer and upgrader, or you can install the plugin
-manually.
+You can use the built in installer and upgrader, or you can install the plugin manually.
 
 1. You can either use the automatic plugin installer or your FTP program to upload it to your wp-content/plugins directory
 the top-level folder. Don't just upload all the php files and put them in `/wp-content/plugins/`.
@@ -51,17 +50,23 @@ Absolutely YES
 
 
 == Changelog ==
+= 2.0.1 =
+* register_settings function conflicts with other plugins solved
+
 = 2.0 =
 * Ability to position the notifying bar in the page (top, bottom)
 * Fullscreen mode
 * Blink ability
 
 = 1.0 =
-* Yellow bar with a message at the top of the page
+* Yellow bar with a message at the top of the page.
 
 
 
 == Upgrade Notice ==
+= 2.0.1 =
+solved the register_settings function conflicts with other plugins
+
 = 2.0 =
 Change the positioning, make it blink!
 
@@ -72,5 +77,4 @@ This is the very first version of the plugin. More to follow!.
 == Screenshots ==
 1. This is how the maintenance note looks in the page
 2. After activating the plugin, you'll see the Maintenance Mode Notify settings page link in the admin menu
-3. Just change the message or set to 0(zero) to disable. Pick a look, make it blink!
-4. Fullscreen mode. Your visitors still can see the site behind the transparent overlay but they can't navigate.  
+3. Just change the message or set to 0(zero) to disable. Pick a look, make it blink! 
