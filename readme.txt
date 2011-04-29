@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_i
 Tags: maintenance, notify, alert, popup
 Requires at least: 2.8
 Tested up to: 3.1.1
-Stable tag: trunk
+Stable tag: 2.1
 
 Notify your visitors when you're updating your blog by showing a nice message in the page.
 
@@ -51,7 +51,7 @@ Absolutely YES
 
 == Changelog ==
 
-= 2.0.1 =
+= 2.1 =
 * register_settings function conflicts with other plugins solved.
 
 = 2.0 =
@@ -66,7 +66,7 @@ Absolutely YES
 
 == Upgrade Notice ==
 
-= 2.0.1 =
+= 2.1 =
 solved the register_settings function conflicts with other plugins.
 
 = 2.0 =
