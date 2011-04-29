@@ -51,7 +51,7 @@ Absolutely YES
 
 == Changelog ==
 = 2.0.1 =
-* register_settings function conflicts with other plugins solved
+* register_settings function conflicts with other plugins solved.
 
 = 2.0 =
 * Ability to position the notifying bar in the page (top, bottom)
@@ -65,7 +65,7 @@ Absolutely YES
 
 == Upgrade Notice ==
 = 2.0.1 =
-solved the register_settings function conflicts with other plugins
+solved the register_settings function conflicts with other plugins.
 
 = 2.0 =
 Change the positioning, make it blink!
