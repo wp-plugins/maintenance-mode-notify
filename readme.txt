@@ -5,7 +5,7 @@ Tags: maintenance, notify, alert, popup
 Requires at least: 2.8
 Tested up to: 3.1.1
 Stable tag: 2.1
-Version: 2.1
+
 
 Notify your visitors when you're updating your blog by showing a nice message in the page.
 
